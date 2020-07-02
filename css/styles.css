@@ -1,0 +1,46 @@
+body{
+  font-family: Montserrat;
+  text-align: center;
+}
+h1{
+  font-size: 3rem;
+}
+.navbar-brand{
+  font-size: 3rem;
+}
+.title{
+  background-color: #12cad6;
+  padding: 10%;
+}
+.title-img{
+  width:50%;
+}
+.services{
+  padding:7% 10%;
+
+}
+.service-row{
+  padding: 5%;
+}
+/*.service-col{
+  padding-bottom: ;
+}*/
+.service-img{
+  width:70%;
+  border-radius: 5%;
+}
+#testimonials{
+  background-color: #12cad6;
+
+}
+.testimonial-img{
+  height: 10%;
+  width:10%;
+  border-radius:100%;
+}
+.carousel-item{
+  padding:7% 15%;
+}
+.contact{
+  padding:3% 0% 3% 0%;
+}
